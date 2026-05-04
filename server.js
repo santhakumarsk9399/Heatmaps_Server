@@ -1,5 +1,5 @@
 const app = require("./app");
-const port = 8000;
+const port = 7000;
 const fs = require("fs");
 const https = require("https");
 
