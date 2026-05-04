@@ -1,0 +1,17 @@
+{
+    "apis_base_url": "https://app.alfie.asia/api/",
+    "password_reset_link": "https://app.alfie.asia/resetpassword?",
+    "apis_base_url2": "http://104.131.5.210:7400/api/",
+    "password_reset_link2": "http://104.131.5.210:7400/resetpassword?",
+    "jwt_secret": "secret-key-change-it-later",
+    "google_client_id": "186671341167-7616kv9m1meorhffcci6eugdqi471sek.apps.googleusercontent.com",
+  
+    "files": {
+      "users": "uploads/users",
+      "loans": "uploads/loans",
+      "bankstatements": "uploads/bankstatements",
+  
+      "temp": "uploads/temp/"
+    }
+  }
+  
